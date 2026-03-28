@@ -90,7 +90,9 @@ This project is an end-to-end Power BI dashboard built to analyze hotel booking 
 * Repeat Users
 * Ranking (Top N)
 
----## 📸 Dashboard Screenshots
+---
+
+## 📸 Dashboard Screenshots
 
 
 ## 💡 Insights
