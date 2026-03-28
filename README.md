@@ -91,7 +91,7 @@ This project is an end-to-end Power BI dashboard built to analyze hotel booking 
 * Ranking (Top N)
 
 ---## 📸 Dashboard Screenshots
-https://github.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/blob/main/Screenshots/Screenshot%202026-03-28%20193843.png
+
 
 ## 💡 Insights
 
