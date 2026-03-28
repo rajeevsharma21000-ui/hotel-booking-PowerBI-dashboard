@@ -90,35 +90,8 @@ This project is an end-to-end Power BI dashboard built to analyze hotel booking 
 * Repeat Users
 * Ranking (Top N)
 
----
-
-## 📸 Dashboard Screenshots
-
-![Dashboard](Screenshots/dashboard1.png)
-![Sales Report](Screenshots/sales_report.png)
-![Customer Report](Screenshots/customer_report.png)
-
 ---## 📸 Dashboard Screenshots
-
-![City Price Analysis](Screenshots/city_price_analysis.png)
-
-![KPI Dashboard Overview](Screenshots/kpi_dashboard.png)
-
-![Sales Insights by City](Screenshots/sales_city_analysis.png)
-
-![Ratings Distribution Analysis](Screenshots/ratings_analysis.png)
-
-![User Activity Table](Screenshots/user_activity.png)
-
-![Time Intelligence Dashboard](Screenshots/time_intelligence.png)
-
-![Recent Booking Trends](Screenshots/recent_booking_analysis.png)
-
-![Hotel Ranking Dashboard](Screenshots/hotel_ranking.png)
-
-![Sales Report Dashboard](Screenshots/sales_report.png)
-
-![Customer Report Dashboard](Screenshots/customer_report.png)
+https://github.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/blob/main/Screenshots/Screenshot%202026-03-28%20193843.png
 
 ## 💡 Insights
 
