@@ -94,6 +94,25 @@ This project is an end-to-end Power BI dashboard built to analyze hotel booking 
 
 ## 📸 Dashboard Screenshots
 
+![Dashboard 1](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img1.png)
+
+![Dashboard 2](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img2.png)
+
+![Dashboard 3](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img3.png)
+
+![Dashboard 4](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img4.png)
+
+![Dashboard 5](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img5.png)
+
+![Dashboard 6](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img6.png)
+
+![Dashboard 7](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img7.png)
+
+![Dashboard 8](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img8.png)
+
+![Dashboard 9](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img9.png)
+
+![Dashboard 10](https://raw.githubusercontent.com/rajeevsharma21000-ui/hotel-booking-PowerBI-dashboard/main/Screenshots/img10.png)
 
 ## 💡 Insights
 
